@@ -14,3 +14,6 @@
 
   <p align="center"> <sup>*</sup> <i>equal contribution</i> </p>
 </p>
+
+[![Website](docs/static/figures/badge-website.svg)](https://m990130.github.io/SCFlow/)
+![Cover](docs/static/images/teaser.jpg)
