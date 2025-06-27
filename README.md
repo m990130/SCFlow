@@ -1,3 +1,5 @@
+This page is outdated, we have moved the content over: https://github.com/CompVis/SCFlow
+
 <p align="center">
  <h2 align="center">SCFlow: Implicitly Learning Style and Content Disentanglement with Flow Models</h2>
  <p align="center"> 
